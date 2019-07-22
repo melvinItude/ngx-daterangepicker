@@ -1,0 +1,23 @@
+{
+  "name": "ngx-daterangepicker",
+  "version": "2.1.0",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "bulma": "^0.7.1",
+    "date-fns": "^1.29.0"
+  },
+  "main": "bundles/ngx-daterangepicker.umd.js",
+  "module": "fesm5/ngx-daterangepicker.js",
+  "es2015": "fesm2015/ngx-daterangepicker.js",
+  "esm5": "esm5/ngx-daterangepicker.js",
+  "esm2015": "esm2015/ngx-daterangepicker.js",
+  "fesm5": "fesm5/ngx-daterangepicker.js",
+  "fesm2015": "fesm2015/ngx-daterangepicker.js",
+  "typings": "ngx-daterangepicker.d.ts",
+  "metadata": "ngx-daterangepicker.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
